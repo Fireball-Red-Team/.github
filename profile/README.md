@@ -15,7 +15,7 @@ We're the IT side of Fireball Industries — software development, infrastructur
 | **Backend** | Go · stdlib `net/http` · single-binary architecture |
 | **Frontend** | Server-rendered HTML · vanilla JS · offline-first (no CDN dependencies) |
 | **Infrastructure** | K3s · Rancher · Helm · Longhorn |
-| **Networking** | Flux (OpenZiti zero-trust mesh) · WireGuard · ForgeNET (OpenWISP) |
+| **Networking** | Flux (zero-trust mesh) · ArcNET · ForgeNET |
 | **Industrial** | AnvilMQ (multi-protocol broker) · OPC UA · Ignition SCADA |
 | **Auth** | Azure AD SSO · OAuth2 Proxy · RBAC |
 | **Data** | SQLite · PostgreSQL · InfluxDB |
