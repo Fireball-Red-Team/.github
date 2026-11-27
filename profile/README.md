@@ -48,4 +48,4 @@ Embers become fire. 🔥
 
 ---
 
-<sub>**Fireball Industries** · [fireballz.ai](https://fireballz.ai) · *We're on fire. Hopefully not literally.*</sub>
+<sub>**Fireball Industries** · [fireballindustries.com](https://fireballindustries.com) · [fireballz.ai](https://fireballz.ai) · *We're on fire. Hopefully not literally.*</sub>
